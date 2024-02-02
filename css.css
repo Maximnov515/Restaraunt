@@ -228,5 +228,16 @@
 }
 .tst{
     width: 100%;
-    height: 906px;
+    height: 534px;
+    background-color: #292E36;
+}
+.fontdelihi1{
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+    font-size: 40px;
+}
+.tst2{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
 }
