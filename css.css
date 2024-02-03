@@ -243,7 +243,7 @@
 }
 .of{
     width: 100%;
-    height: 184px;
+    height: 784px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -257,4 +257,16 @@
 .of3{
     width: 100%;
     display: flex;
+}
+.mn{
+    width: 100%;
+    height: 184px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.mn1{
+    width: 350px;
+    height: 447px;
 }
