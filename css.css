@@ -255,5 +255,6 @@
     align-items: center;
 }
 .of3{
+    width: 100%;
     display: flex;
 }
