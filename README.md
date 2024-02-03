@@ -1,3 +1,3 @@
-Hi!  Im maxim junior hml and css programmer!)
+Hi!  Im maxim junior html and css programmer!)
 Hope you enjow my works!
-Have a grea day! :-)
+Have a great day! :-)
