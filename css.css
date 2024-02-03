@@ -308,3 +308,17 @@
     align-items: flex-start;
     flex-direction: column;
 }
+.bl{
+    width: 100%;
+    height: 284px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.bl1{
+    width: 100%;
+    height: 770px;
+    display: flex;
+    justify-content: space-around;
+}
